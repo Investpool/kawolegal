@@ -1,0 +1,46 @@
+.nrt,.button{
+	padding-left: 20px;
+	margin-bottom: 20px;
+	align-items: center;
+}
+.rect{
+	background-color: brown;
+	color: pink;
+	margin-top: 25px; 
+}
+.footer{
+	background-color: brown;
+	color: white;
+	height: 30px;
+}
+input{
+	width: 70%;
+	align-items: center;
+}
+.navbar-brand{
+	padding-bottom: 20px;
+}
+.navi,.ister{
+	border:3px solid pink;
+}
+
+.bigup{
+	height: 700px;
+	width: 1150px;
+	background-repeat: stretch;
+	margin-bottom: none;
+}
+.pus-t{
+	height: 30px;
+}
+.center{
+	text-align: center;
+}
+.ch{
+	color: blue;
+}
+.navbar-default{
+	background-color: transparent;
+	position: fixed;
+	width:;
+}
