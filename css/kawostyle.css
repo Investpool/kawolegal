@@ -27,7 +27,7 @@ input{
 .bigup{
 	height: 700px;
 	width: 1150px;
-	background-repeat: stretch;
+	background-position: stretch;
 	margin-bottom: none;
 }
 .pus-t{
